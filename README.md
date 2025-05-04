@@ -20,7 +20,7 @@ This project demonstrates data analysis and visualization using Python libraries
 
 ## Files
 
-- `iris_data_analysis.ipynb`: Jupyter notebook containing code, visualizations, and observations.
+- `dataAnalysis.ipynb`: Jupyter notebook containing code, visualizations, and observations.
 - `README.md`: Project overview and usage instructions.
 
 ## Key Tasks Performed
