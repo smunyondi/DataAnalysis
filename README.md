@@ -57,7 +57,7 @@ This project demonstrates data analysis and visualization using Python libraries
 
 ## How to Run
 
-1. Open the `iris_data_analysis.ipynb` notebook in Jupyter Lab or Jupyter Notebook.
+1. Open the `dataAnalysis.ipynb` notebook in Jupyter Lab or Jupyter Notebook.
 2. Run all cells to see the analysis and plots.
 3. Make sure required libraries are installed using pip:
    ```bash
